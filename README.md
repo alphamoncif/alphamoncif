@@ -26,8 +26,8 @@
 
 ```yaml
 name: "alphamoncif"
-located_in: "Algeria 🇩🇿"
-education: "Master's in Visual Computing — USTHB, Algiers (2026–Present)"
+located_in: "House"
+education: "Master's in Visual Computing"
 current_focus: "AI Engineering & Computer Vision"
 fields_of_interest:
   - "Artificial Intelligence"
