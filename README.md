@@ -194,6 +194,6 @@ My current deep dive: **Computer Vision & Deep Learning** — from real-time obj
 
 <br/>
 
-<sub>Built by <a href="https://github.com/alphamoncif">alphamoncif</a> · Code is craft, ship with pride. 🖤</sub>
+
 
 </div>
